@@ -91,16 +91,16 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>The Stripes NFT</title>
-<meta name="description" content="Mint your Stripes NFT" />
+<title>ARYAY ONCE A DAY</title>
+<meta name="description" content="Mint your ARYAY NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
 
 ```json
 {
-  "short_name": "TSNFT",
-  "name": "The Stripes NFT"
+  "short_name": "ARYAY",
+  "name": "ARYAY ONCE A DAY"
 }
 ```
 
